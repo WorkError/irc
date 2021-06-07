@@ -1,0 +1,26 @@
+.container{
+    margin: 30px 30px;
+}
+.ss-content{
+  right: 0 !important;
+}
+.ss-wrapper{
+  height: 100%;
+}
+.messBox {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px 15px;
+    height: 80vh;
+    font-size: 20px;
+  }
+
+  .messInput {
+    margin-top: 10px;
+    margin-right: 8px;
+    min-width: 100vh;
+  }
+
+  #toSend {
+    min-width: 100%;
+  }
